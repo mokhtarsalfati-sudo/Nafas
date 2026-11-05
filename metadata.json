@@ -1,0 +1,6 @@
+{
+  "name": "NAFAS – نَفَس",
+  "description": "Islamic smoking cessation companion with live smoke-free timer, health milestones, emergency craving SOS, savings tracker, and Noor guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
